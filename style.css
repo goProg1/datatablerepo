@@ -1,0 +1,50 @@
+/* CSS stylesheet */
+
+body {
+	background-color: #192527;
+}
+
+#mainsiteLink {
+	color: lightgray;
+}
+
+.name {
+	color: white;
+}
+
+h1 {
+	color: #afd8ef;
+	text-align: center;
+}
+
+#header {
+	font-family: sans-serif;
+	font-size: 28px;
+	margin: 10px 2px;
+	padding: 2px;
+}
+
+#divTbl1 {
+	margin: 10px;
+}
+
+#Table1 {
+
+	border: 2px solid black;
+	border-collapse: collapse;
+	width: 50%;
+	background-color: #464849;
+
+}
+
+th, td {
+	border: 1px solid gray;
+	padding: 5px;
+	text-align: center;
+	color: gainsboro;
+}
+
+th {
+	background-color: lightgray;
+	color: black;
+}
